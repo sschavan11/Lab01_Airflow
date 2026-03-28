@@ -11,7 +11,6 @@ The workflow uses the Titanic dataset to predict passenger survival and demonstr
 
 ## Project Structure
 
-```text
 Lab01-Airflow/
 │
 ├── dags/
