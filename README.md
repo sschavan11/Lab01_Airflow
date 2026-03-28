@@ -72,6 +72,9 @@ After successful DAG execution, the following files are generated in the output 
 - `titanic_model.pkl` → saved trained model
 - `metrics.txt` → evaluation metrics
 
+## Output Image
+<img width="547" height="238" alt="image" src="https://github.com/user-attachments/assets/96d3cef0-83ef-489d-9483-82c7f77cb4f8" />
+
 The evaluation file contains:
 
 - Accuracy score
@@ -107,3 +110,10 @@ Trigger the DAG manually from the Airflow interface.
 ## Result
 
 The Airflow pipeline executed successfully with all tasks completed in sequence, and the machine learning workflow produced both trained model output and evaluation metrics.
+
+## Airflow Output:
+<img width="946" height="497" alt="Image01" src="https://github.com/user-attachments/assets/ed01e522-5ae6-4d14-bb50-628a1ebf102e" />
+
+<img width="955" height="494" alt="image02" src="https://github.com/user-attachments/assets/a32c35e6-b1b8-4e1c-8d3b-72708cc0c12e" />
+
+
