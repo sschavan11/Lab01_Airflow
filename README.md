@@ -8,7 +8,7 @@ The pipeline automates the sequence of loading data, preprocessing features, tra
 The workflow uses the Titanic dataset to predict passenger survival and demonstrates how Airflow can manage machine learning tasks in an organized and reproducible manner.
 
 ---
-
+```
 ## Project Structure
 
 Lab01-Airflow/
@@ -31,6 +31,7 @@ Lab01-Airflow/
 ├── requirements.txt
 ├── .env
 ├── README.md
+```
 
 ## Workflow Description
 
